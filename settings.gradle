@@ -1,0 +1,2 @@
+rootProject.name='jetpack-viewpager2'
+include ':app'

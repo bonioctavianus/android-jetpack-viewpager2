@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_menu_vertical_orientation"
+        android:title="Vertical Orientation"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_menu_horizontal_orientation"
+        android:title="Horizontal Orientation"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_menu_zoom_out_transformer"
+        android:title="Zoom Out Transformer"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_menu_depth_page_transformer"
+        android:title="Depth Page Transformer"
+        app:showAsAction="never" />
+
+</menu>
